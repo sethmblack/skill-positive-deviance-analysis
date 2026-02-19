@@ -4,7 +4,7 @@ description: Find and study outliers who succeed despite the same constraints as
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4712
+  version: 1.0.4713
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - positive-deviance-analysis
